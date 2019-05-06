@@ -1,0 +1,20 @@
+body {
+    background-color: darkslategray;
+}
+
+.car {
+    position: absolute;
+    right: 50%;
+    height: 80px;
+    border: 1px solid red;
+}
+
+#message {
+    font-size: 50px;
+    color: yellow;
+    font-weight: bold;
+    font-family: Arial;
+    width: 100%;
+    margin-top: 250px;
+    text-align: center;
+}
